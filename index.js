@@ -25,4 +25,4 @@ let fakedProducts = [
 ]
 
 AppRegistry.registerComponent(appName,
-    () => () => <AutoLogin />);
+    () => () => <Signup />);
